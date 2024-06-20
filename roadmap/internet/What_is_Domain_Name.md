@@ -37,5 +37,6 @@ Root -> Top-level -> Second-level -> sub 순으로 다음 파트를 알고있다
 
 ---
 ##### 참고 문헌
-[WEB2-Domain Name System-8.도메인 이름의 구조](https://youtu.be/2EIgPYRzVwY?si=S0TDTfPDXVZgHJrD)
+[WEB2-Domain Name System-8.도메인 이름의 구조](https://youtu.be/2EIgPYRzVwY?si=S0TDTfPDXVZgHJrD)  
+
 [Node.js - 9.URL의 이해](https://youtu.be/Zhbvui_T9VY?si=MHjIankS85s8whaB)
