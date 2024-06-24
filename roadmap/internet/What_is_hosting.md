@@ -21,8 +21,8 @@
 서버의 처리 부담이 적고, 속도가 빠르다는 장점이 있다. 
 - 동적 웹 서버 : 사용자의 요청에 따라 콘텐츠를 서버에서 실시간으로 생성하고 제공한다. 이러한 사이트는 PHP, JavaScript, 데이터베이스 접근 등을 포함하며 사용자와 실시간으로 상호작용한다는 느낌이 강하다. 
 이는 서버에 더 많은 처리를 요구하고, 자원을 더 많이 사용한다.  
+    
   
-
 블로그 같은 경우는 실시간으로 변경되어야하는 부분이 없기 때문에 정적으로 주로 관리된다.  
 반면 위키피디아 같은 경우는 단지 몇 개의 HTML 템플릿과 대량의 데이터데이스로 구성된다. 
 각자의 장점이 다른기 때문에 웹사이트들의 필요에 따라 정적과 동적을 적정히 섞어 사용한다.
@@ -30,7 +30,7 @@
 
 
 ---
-참고 문헌
+### 참고 문헌
 [What is web server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/What_is_a_web_server)  
 [호스팅이란 무엇일까? | IT 짧상식](https://youtu.be/-9tJCWkLdi8?si=kqYcVuUV2TOmStiH)  
 
