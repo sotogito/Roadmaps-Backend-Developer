@@ -11,6 +11,10 @@ Roadmaps의 [백엔드 개발자 로드맵](https://roadmap.sh/backend)을 기�
 - [도메인 이름은 어떤구조일까?](roadmap/internet/What_is_Domain_Name.md)
 - [웹 호스팅은 무엇일까?](roadmap/internet/What_is_hosting.md)
 
+## 언어
+
+- [자바](roadmap/language/java/Java_Roadmap.md)
+- [파이썬](roadmap/language/python/Python_Roadmap.md)
 
 ---
 ## Articles
